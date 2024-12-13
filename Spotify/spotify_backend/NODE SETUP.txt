@@ -1,0 +1,197 @@
+Microsoft Windows [Version 10.0.22631.4169]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\shrad> D:
+
+D:\>cd Placement Preparation\MERN PROJECT
+
+D:\Placement Preparation\MERN PROJECT>ls
+'ls' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\Placement Preparation\MERN PROJECT>mkdir BackEnd
+
+D:\Placement Preparation\MERN PROJECT> ls
+'ls' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\Placement Preparation\MERN PROJECT>dir
+ Volume in drive D is Data Storage
+ Volume Serial Number is B471-4F83
+
+ Directory of D:\Placement Preparation\MERN PROJECT
+
+14-09-2024  13:09    <DIR>          .
+14-09-2024  13:05    <DIR>          ..
+14-09-2024  13:09    <DIR>          BackEnd
+14-09-2024  13:09    <DIR>          FrontEnd
+               0 File(s)              0 bytes
+               4 Dir(s)  192,247,431,168 bytes free
+
+D:\Placement Preparation\MERN PROJECT>cd BackEnd
+
+D:\Placement Preparation\MERN PROJECT\BackEnd>npm init
+This utility will walk you through creating a package.json file.
+It only covers the most common items, and tries to guess sensible defaults.
+
+See `npm help init` for definitive documentation on these fields
+and exactly what they do.
+
+Use `npm install <pkg>` afterwards to install a package and
+save it as a dependency in the package.json file.
+
+Press ^C at any time to quit.
+package name: (backend)
+version: (1.0.0)
+description: This will contain the backend code for the spotify
+clone
+entry point: (index.js)
+test command:
+git repository:
+keywords:
+author: Shradha Das
+license: (ISC)
+About to write to D:\Placement Preparation\MERN PROJECT\BackEnd\package.json:
+
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "This will contain the backend code for the spotify clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shradha Das",
+  "license": "ISC"
+}
+
+
+Is this OK? (yes)
+
+D:\Placement Preparation\MERN PROJECT\BackEnd> dir
+ Volume in drive D is Data Storage
+ Volume Serial Number is B471-4F83
+
+ Directory of D:\Placement Preparation\MERN PROJECT\BackEnd
+
+14-09-2024  13:14    <DIR>          .
+14-09-2024  13:09    <DIR>          ..
+14-09-2024  13:14               270 package.json
+               1 File(s)            270 bytes
+               2 Dir(s)  192,247,431,168 bytes free
+
+############################################################################################################################################################
+############################################################################################################################################################
+Microsoft Windows [Version 10.0.22631.4169]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\shrad> D:
+
+D:\>cd Placement Preparation\MERN PROJECT
+
+D:\Placement Preparation\MERN PROJECT>ls
+'ls' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\Placement Preparation\MERN PROJECT>mkdir BackEnd
+
+D:\Placement Preparation\MERN PROJECT> ls
+'ls' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\Placement Preparation\MERN PROJECT>dir
+ Volume in drive D is Data Storage
+ Volume Serial Number is B471-4F83
+
+ Directory of D:\Placement Preparation\MERN PROJECT
+
+14-09-2024  13:09    <DIR>          .
+14-09-2024  13:05    <DIR>          ..
+14-09-2024  13:09    <DIR>          BackEnd
+14-09-2024  13:09    <DIR>          FrontEnd
+               0 File(s)              0 bytes
+               4 Dir(s)  192,247,431,168 bytes free
+
+D:\Placement Preparation\MERN PROJECT>cd BackEnd
+
+D:\Placement Preparation\MERN PROJECT\BackEnd>npm init
+This utility will walk you through creating a package.json file.
+It only covers the most common items, and tries to guess sensible defaults.
+
+See `npm help init` for definitive documentation on these fields
+and exactly what they do.
+
+Use `npm install <pkg>` afterwards to install a package and
+save it as a dependency in the package.json file.
+
+Press ^C at any time to quit.
+package name: (backend)
+version: (1.0.0)
+description: This will contain the backend code for the spotify
+clone
+entry point: (index.js)
+test command:
+git repository:
+keywords:
+author: Shradha Das
+license: (ISC)
+About to write to D:\Placement Preparation\MERN PROJECT\BackEnd\package.json:
+
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "This will contain the backend code for the spotify clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shradha Das",
+  "license": "ISC"
+}
+
+
+Is this OK? (yes)
+
+D:\Placement Preparation\MERN PROJECT\BackEnd> dir
+ Volume in drive D is Data Storage
+ Volume Serial Number is B471-4F83
+
+ Directory of D:\Placement Preparation\MERN PROJECT\BackEnd
+
+14-09-2024  13:14    <DIR>          .
+14-09-2024  13:09    <DIR>          ..
+14-09-2024  13:14               270 package.json
+               1 File(s)            270 bytes
+               2 Dir(s)  192,247,431,168 bytes free
+
+D:\Placement Preparation\MERN PROJECT\BackEnd> dir
+ Volume in drive D is Data Storage
+ Volume Serial Number is B471-4F83
+
+ Directory of D:\Placement Preparation\MERN PROJECT\BackEnd
+
+14-09-2024  13:29    <DIR>          .
+14-09-2024  13:09    <DIR>          ..
+14-09-2024  13:29                 0 Index.js
+14-09-2024  13:16             2,453 NODE SETUP.txt
+14-09-2024  13:14               270 package.json
+               3 File(s)          2,723 bytes
+               2 Dir(s)  191,851,728,896 bytes free
+
+D:\Placement Preparation\MERN PROJECT\BackEnd>npm i express
+
+added 65 packages, and audited 66 packages in 1s
+
+13 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+D:\Placement Preparation\MERN PROJECT\BackEnd> npm i mongoose
+
+added 20 packages, and audited 86 packages in 4s
+
+14 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
